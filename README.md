@@ -1,8 +1,3 @@
-# The Collaborative Story
-It was a dark and stormy night. The rain pattered against the
-window, but a lone cursor blinked on a screen, ready to write the
-next chapter.
-
 # Chapter 3: The Unexpected Visitor
 # chapter_3.py
 # The laboratory door slowly opened. Their software development professor walked into the room.
